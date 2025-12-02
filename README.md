@@ -14,7 +14,7 @@ Tento skript slouží jako **Solver** pro automatický výpočet úloh spojenýc
     python solver.py
     ```
 
-2.  **Zadejte Q formát** podle zadání v LMS (např. `Q12.16`, `12.16` nebo `12,16`).
+2.  **Zadejte Q formát** podle zadání v LMS (např. `Q12.16`).
 
 3.  **Vložte reálná čísla** z testu, když vás k tomu program vyzve.
 
