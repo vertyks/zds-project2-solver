@@ -1,6 +1,6 @@
 # 📄 ZDS Project 2. Solver
 
-Tento skript slouží jako **Solver** pro automatický výpočet úloh spojených s **Q-formátem (pevnou řádovou čárkou)**. Je navržen specificky pro usnadnění práce na **Projektu č. 2** v předmětu **Zpracování dat a signálů (ZDS)** na **VŠB – Technické univerzitě Ostrava**.
+Tento skript slouží jako **Solver** pro automatický výpočet úloh spojených s **Q-formátem (pevnou řádovou čárkou)**. Je navržen specificky pro usnadnění práce na **Projektu č. 2** v předmětu **Základy Digitálních Systémů (ZDS)** na **VŠB – Technické univerzitě Ostrava**.
 
 ## 🚀 Požadavky
 
